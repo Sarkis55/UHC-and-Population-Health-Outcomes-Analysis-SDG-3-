@@ -1,2 +1,3 @@
-# UHC-and-Population-Health-Outcomes-Analysis-SDG-3-
-The study will compare countries across regions and income groups to assess the strength, direction, and consistency of these relationships. Findings will clarify whether improvements in health coverage systematically align with better national health outcomes.
+# Does Universal Health Care Coverage Improve Population Health Outcome?
+
+To what extent does the UHC Service Coverage Index (SDG 3.8.1) predict differences in key population health outcomes across countries? This analysis will test whether higher UHC coverage levels are associated with lower maternal mortality (3.1.1), reduced under-5 mortality (3.2.1), and decreased premature mortality from noncommunicable diseases (3.4.1). The study will compare countries across regions and income groups to assess the strength, direction, and consistency of these relationships. Findings will clarify whether improvements in health coverage systematically align with better national health outcomes.
